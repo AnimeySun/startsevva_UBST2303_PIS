@@ -1,0 +1,34 @@
+body {
+    background: #1abc9c;
+    font-family: Tahoma, Arial, sans-serif;
+    color: #333;
+}
+table {
+    border-collapse: collapse;
+}
+p, h4 {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+h4 {
+    font-size: 18px; /* ИЗМЕНИЛИ РАЗМЕР ШРИФТА ДЛЯ h4 */
+}
+ul, ol {
+    margin: 0;
+}
+table tr td {
+    padding: 5px;
+}
+table {
+    width: 100%; /* ШИРИНА ТАБЛИЦЫ НА 100% ЭКРАНА */
+}
+
+img {
+    height: 30px; /* КАРТИНКА ВЫСОТОЙ 30px */
+    width: auto;
+}
+
+/* ДОБАВИЛИ ДЛЯ ЗАГОЛОВКА ПЕРВОГО УРОВНЯ ШРИФТ С ЗАСЕЧКАМИ */
+h1 {
+    font-family: "Times New Roman", Times, serif;
+}
